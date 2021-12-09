@@ -12,9 +12,10 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 Credits
 -------
 - [**LineageOS**](https://github.com/LineageOS)
+- [**Project Materium**](https://github.com/ProjectMaterium)
 *********
 <a href="https://t.me/NightskyROM">
-<img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Telegram-Channel-green?style=for-the-badge">
 </a>
 
 To initialize your local repository using your trees, use a command like this:  
