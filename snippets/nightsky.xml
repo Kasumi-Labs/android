@@ -2,6 +2,7 @@
 <manifest>
 
   <project path="android" name="android" remote="night" />
+  <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="night" />
   <project path="vendor/nightsky" name="android_vendor_nightsky" remote="night" />
 
 </manifest>
