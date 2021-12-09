@@ -2,6 +2,7 @@
 <manifest>
 
   <project path="android" name="android" remote="night" />
+  <project path="lineage-sdk" name="android_lineage-sdk" remote="night" />
   <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="night" />
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="night" />
   <project path="vendor/nightsky" name="android_vendor_nightsky" remote="night" />
