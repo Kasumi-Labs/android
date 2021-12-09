@@ -1,0 +1,35 @@
+<div align="center">
+<h1>Nightsky</h1>
+</br>
+<strong><i> For users, by users. </i></strong>
+</br>
+
+Getting started
+---------------
+To get started with Android/Nightsky, you'll need to get
+familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
+  
+Credits
+-------
+- [**LineageOS**](https://github.com/LineageOS)
+*********
+<a href="https://t.me/NightskyROM">
+<img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
+</a>
+
+To initialize your local repository using your trees, use a command like this:  
+```
+repo init --depth=1 -u git://github.com/NightskyROM/android.git -b staging/12.0
+```
+Then to sync up:
+```
+repo sync
+```
+And to start build:
+```
+. build/envsetup.sh
+lunch lineage_<devicecodename>-userdebug
+mka bacon
+```
+
+**This branch is in a staging phase and things might change ANY TIME!**
