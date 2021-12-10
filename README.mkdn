@@ -13,6 +13,7 @@ Credits
 -------
 - [**LineageOS**](https://github.com/LineageOS)
 - [**Project Materium**](https://github.com/ProjectMaterium)
+- [**ArrowOS**](https://github.com/ArrowOS)
 *********
 <a href="https://t.me/NightskyROM">
 <img src="https://img.shields.io/badge/Telegram-Channel-green?style=for-the-badge">
